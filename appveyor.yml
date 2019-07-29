@@ -1,0 +1,4 @@
+﻿image: Ubuntu
+
+test_script:
+- dotnet test
